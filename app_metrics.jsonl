@@ -1,0 +1,11 @@
+{"timestamp": "2025-08-21T11:55:28.169645", "event_type": "session_start"}
+{"timestamp": "2025-08-21T12:00:32.986501", "event_type": "bedrock_call", "model_id": "anthropic.claude-3-5-sonnet-20240620-v1:0", "tokens": 978, "latency_seconds": 7.8793017864227295, "success": true}
+{"timestamp": "2025-08-21T12:00:34.268571", "event_type": "user_action", "action": "generate_evidence", "urls_count": 3}
+{"timestamp": "2025-08-21T12:02:05.271890", "event_type": "bedrock_call", "model_id": "anthropic.claude-3-5-sonnet-20240620-v1:0", "tokens": 4048, "latency_seconds": 28.536093711853027, "success": true}
+{"timestamp": "2025-08-21T12:02:06.442546", "event_type": "user_action", "action": "generate_personas", "tone": "premium"}
+{"timestamp": "2025-08-21T12:03:30.876714", "event_type": "bedrock_call", "model_id": "anthropic.claude-3-5-sonnet-20240620-v1:0", "tokens": 1285, "latency_seconds": 12.423943519592285, "success": true}
+{"timestamp": "2025-08-21T12:03:32.035688", "event_type": "user_action", "action": "generate_usp", "features_count": 4}
+{"timestamp": "2025-08-21T12:04:58.996491", "event_type": "bedrock_call", "model_id": "anthropic.claude-3-5-sonnet-20240620-v1:0", "tokens": 2911, "latency_seconds": 24.63210916519165, "success": true}
+{"timestamp": "2025-08-21T12:05:55.657905", "event_type": "bedrock_call", "model_id": "anthropic.claude-3-5-sonnet-20240620-v1:0", "tokens": 2614, "latency_seconds": 55.22310662269592, "success": true}
+{"timestamp": "2025-08-21T12:05:56.829733", "event_type": "user_action", "action": "generate_message_house", "personas_count": 3}
+{"timestamp": "2025-08-21T12:08:11.166789", "event_type": "user_action", "action": "export_excel"}

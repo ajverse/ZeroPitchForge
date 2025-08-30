@@ -1,0 +1,8 @@
+streamlit
+boto3
+openpyxl
+pandas
+notion-client
+python-dotenv
+structlog
+psutil
